@@ -10,3 +10,8 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Only keep the source code from the web
+web/*
+!web/*.go
+!web/*.html
