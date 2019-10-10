@@ -5,9 +5,8 @@ import (
 	"math"
 )
 
+// Sqrt function While loop implementation of Newton's method
 func Sqrt(x float64) float64 {
-	// While loop implementation of Newton's method
-	// for calculation Sqrt
 	z := 1.0
 	newZ := z - (z*z-x)/(2*z)
 
