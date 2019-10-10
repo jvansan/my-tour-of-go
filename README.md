@@ -11,3 +11,5 @@ Tour index at [golang website](https://tour.golang.org/list).
 Web App - `web`
 
 Tutorial at [golang website](https://golang.org/doc/articles/wiki/).
+
+**Completed Oct. 10, 2019**
